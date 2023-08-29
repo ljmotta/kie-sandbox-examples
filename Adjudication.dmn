@@ -179,11 +179,11 @@
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="742" y="84" width="200" height="200"/>
+        <dc:Bounds x="738" y="84" width="200" height="200"/>
         <dmndi:DMNLabel/>
         <dmndi:DMNDecisionServiceDividerLine>
-          <di:waypoint x="742" y="184"/>
-          <di:waypoint x="942" y="184"/>
+          <di:waypoint x="738" y="184"/>
+          <di:waypoint x="938" y="184"/>
         </dmndi:DMNDecisionServiceDividerLine>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_D44B7987-4491-4885-9454-31455BDBFBBD" dmnElementRef="_D44B7987-4491-4885-9454-31455BDBFBBD" isCollapsed="false">
@@ -248,7 +248,7 @@
         <di:waypoint x="580" y="209"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_3F4547D5-74E4-4AE6-9BCB-C8EB55296A02-AUTO-TARGET" dmnElementRef="_3F4547D5-74E4-4AE6-9BCB-C8EB55296A02">
-        <di:waypoint x="842" y="184"/>
+        <di:waypoint x="838" y="184"/>
         <di:waypoint x="580" y="209"/>
       </dmndi:DMNEdge>
     </dmndi:DMNDiagram>
