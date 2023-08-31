@@ -980,141 +980,141 @@ else false</dmn:text>
           <kie:ComponentWidths dmnElementRef="_1DB9D3E9-C836-428F-A726-474813ECBCFA">
             <kie:width>50</kie:width>
             <kie:width>186</kie:width>
-            <kie:width>360</kie:width>
+            <kie:width>586</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_2C7FED80-B0E8-4BD1-BE41-C7F39EA00FE0">
             <kie:width>50</kie:width>
-            <kie:width>290</kie:width>
+            <kie:width>516</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_7544F040-0F29-4B0B-8FAC-E395F0DA30A3">
             <kie:width>50</kie:width>
             <kie:width>120</kie:width>
-            <kie:width>100</kie:width>
+            <kie:width>326</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_BB6E6CE5-1DA2-4975-8073-D30FA9565168">
-            <kie:width>100</kie:width>
+            <kie:width>326</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_AA35EECA-C842-43AF-BE4C-656FAA3BBA77">
-            <kie:width>100</kie:width>
+            <kie:width>326</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_0784B73A-F988-4524-9D6C-19C36E1EFF51">
-            <kie:width>100</kie:width>
+            <kie:width>326</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_937F7650-5BE5-4BFA-9DDB-E6883D880CCA">
             <kie:width>50</kie:width>
             <kie:width>120</kie:width>
-            <kie:width>170</kie:width>
+            <kie:width>396</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_8EB25DF6-3184-4CEB-BC2A-D5FF4173E42D"/>
           <kie:ComponentWidths dmnElementRef="_8370F9B3-6F77-427C-BCAC-70ADF3DAC5C2">
-            <kie:width>170</kie:width>
+            <kie:width>396</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_7B16911B-C8B4-403C-99BE-0FAD8D45D473">
-            <kie:width>170</kie:width>
+            <kie:width>396</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_538E29D6-61AC-4660-8F1B-ACFC750AF39E">
-            <kie:width>170</kie:width>
+            <kie:width>396</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_AEFC27C0-4811-4248-84BE-D0BA774826E6">
-            <kie:width>170</kie:width>
+            <kie:width>396</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_545BBDF2-E67A-4CB3-ACC0-E9AFA30D9CD9">
             <kie:width>50</kie:width>
             <kie:width>176</kie:width>
-            <kie:width>739</kie:width>
+            <kie:width>644</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_DD17D0BF-9F01-431C-91D0-4546643756B1">
-            <kie:width>739</kie:width>
+            <kie:width>644</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_E6C2E3C3-0C71-4E37-8FC3-2ABD9C177620">
-            <kie:width>739</kie:width>
+            <kie:width>644</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_FB79B8A1-051B-4C76-A330-41533D6DA2C8">
-            <kie:width>739</kie:width>
+            <kie:width>644</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_C13B5E57-E9AD-49B6-A039-2227EE818DBC">
             <kie:width>50</kie:width>
-            <kie:width>132</kie:width>
-            <kie:width>132</kie:width>
-            <kie:width>144</kie:width>
-            <kie:width>161</kie:width>
+            <kie:width>100</kie:width>
+            <kie:width>140</kie:width>
+            <kie:width>111</kie:width>
+            <kie:width>123</kie:width>
             <kie:width>100</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_21BA0CB9-F15E-482F-BCBB-F6694EF9B1FC">
             <kie:width>50</kie:width>
             <kie:width>154</kie:width>
-            <kie:width>724</kie:width>
+            <kie:width>570</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_9D39AD1B-4DC7-4B5F-A605-9F04A4C761DA">
-            <kie:width>724</kie:width>
+            <kie:width>570</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_E8082CA9-FEDD-452D-99B8-230AAEF193FF">
-            <kie:width>724</kie:width>
+            <kie:width>570</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_DD3AABF1-9E83-4F71-A769-D9CC01231580">
             <kie:width>50</kie:width>
-            <kie:width>209</kie:width>
-            <kie:width>197</kie:width>
-            <kie:width>148</kie:width>
+            <kie:width>123</kie:width>
+            <kie:width>154</kie:width>
+            <kie:width>123</kie:width>
             <kie:width>100</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_577B0672-0DCE-48E2-A387-A06D89770346">
             <kie:width>50</kie:width>
-            <kie:width>199</kie:width>
-            <kie:width>1237</kie:width>
+            <kie:width>173</kie:width>
+            <kie:width>947</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_2BD8EAFA-9673-46C4-96D3-A81EE65B077E">
             <kie:width>50</kie:width>
-            <kie:width>1167</kie:width>
+            <kie:width>877</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_C1F325BF-D812-4192-AA90-B820C892EA9A">
             <kie:width>50</kie:width>
-            <kie:width>198</kie:width>
-            <kie:width>899</kie:width>
+            <kie:width>169</kie:width>
+            <kie:width>638</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_245FAB0B-6267-4F89-9884-144B838F8F5E">
-            <kie:width>899</kie:width>
+            <kie:width>638</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_0CF76402-465B-4ED8-889A-30ABE403E893">
             <kie:width>50</kie:width>
             <kie:width>120</kie:width>
-            <kie:width>709</kie:width>
+            <kie:width>448</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_38E84892-D4A0-4415-9D32-4FC432B78918">
-            <kie:width>709</kie:width>
+            <kie:width>448</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_650908EF-5842-4098-9CB0-E6BD69EFDE52">
             <kie:width>50</kie:width>
-            <kie:width>270</kie:width>
-            <kie:width>269</kie:width>
+            <kie:width>155</kie:width>
+            <kie:width>123</kie:width>
             <kie:width>100</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_8571615A-3490-4341-A8A8-D934C0526104">
-            <kie:width>899</kie:width>
+            <kie:width>638</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_A83FF43F-CB4E-4C7F-A121-D7067A3D490A">
-            <kie:width>899</kie:width>
+            <kie:width>638</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_591A3EA4-C90E-4B58-9E66-039817DA39CA">
             <kie:width>50</kie:width>
             <kie:width>180</kie:width>
-            <kie:width>987</kie:width>
+            <kie:width>697</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_9EADCC8B-C721-42AF-8784-71BF2C5B689E"/>
           <kie:ComponentWidths dmnElementRef="_702B8DAF-9061-47FF-92F5-5A908824B248">
-            <kie:width>987</kie:width>
+            <kie:width>697</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_63F6C8EF-42D7-4B2A-8D1E-C9C32E460F0C">
-            <kie:width>987</kie:width>
+            <kie:width>697</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_217A6034-0485-47DA-B982-75C8FF0180D9">
-            <kie:width>987</kie:width>
+            <kie:width>697</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_A9926A1D-805B-4C64-BDB6-FFB01A9D3D60">
-            <kie:width>987</kie:width>
+            <kie:width>697</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_9F2CF7EA-885B-4545-9E16-55E354B122A8">
-            <kie:width>987</kie:width>
+            <kie:width>697</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_830C9FEF-FA57-4245-8FFF-1E7F305F4536">
             <kie:width>50</kie:width>
