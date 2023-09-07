@@ -2,9 +2,9 @@
 <dmn:definitions xmlns:dmn="http://www.omg.org/spec/DMN/20180521/MODEL/" xmlns="https://kiegroup.org/dmn/_B9DFF42B-4A3C-4A8D-A32E-C951C404F7D4" xmlns:feel="http://www.omg.org/spec/DMN/20180521/FEEL/" xmlns:kie="http://www.drools.org/kie/dmn/1.2" xmlns:dmndi="http://www.omg.org/spec/DMN/20180521/DMNDI/" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" xmlns:included1="https://kiegroup.org/dmn/_CAC18569-3F97-42D1-A535-1693DF56CB22" id="_3369B481-DAAB-45E6-A2A9-ACA4DD093096" name="Untitled" typeLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" namespace="https://kiegroup.org/dmn/_B9DFF42B-4A3C-4A8D-A32E-C951C404F7D4">
   <dmn:extensionElements/>
   <dmn:import id="_B3DD735B-3C43-4C20-8996-299C6537CB40" name="t" namespace="https://kiegroup.org/dmn/_CAC18569-3F97-42D1-A535-1693DF56CB22" locationURI="Types.dmn" importType="http://www.omg.org/spec/DMN/20180521/MODEL/"/>
-  <dmn:businessKnowledgeModel id="_121D1636-282B-45B5-ACDA-8C73CBF17CE1" name="Affordability Calculation">
+  <dmn:businessKnowledgeModel id="_121D1636-282B-45B5-ACDA-8C73CBF17CE1" name="Affordability calculation">
     <dmn:extensionElements/>
-    <dmn:variable id="_F11CC9DE-704A-419B-912C-FDABBB0DAB4F" name="Affordability Calculation" typeRef="boolean"/>
+    <dmn:variable id="_F11CC9DE-704A-419B-912C-FDABBB0DAB4F" name="Affordability calculation" typeRef="boolean"/>
     <dmn:encapsulatedLogic id="_72FC1D95-7AB8-4459-9815-D2EC186DD40A" kind="FEEL">
       <dmn:formalParameter id="_FCF7D50D-CE15-4F25-92A0-CCD1A4D8FE39" name="Monthly Income" typeRef="number"/>
       <dmn:formalParameter id="_2E6DEF97-E9F0-4FFC-AD59-55BFFB4237BF" name="Monthly Repayments" typeRef="number"/>
@@ -123,31 +123,31 @@ else null</dmn:text>
           <kie:ComponentWidths dmnElementRef="_C46876F8-8596-4064-9291-AE059DE73F84">
             <kie:width>50</kie:width>
             <kie:width>169</kie:width>
-            <kie:width>638</kie:width>
+            <kie:width>708</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_4D8F65CA-89A3-449B-830F-1241E838A428">
-            <kie:width>638</kie:width>
+            <kie:width>708</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_B2B24D48-8D43-493B-B3DC-D02AA5E6FA30">
             <kie:width>50</kie:width>
             <kie:width>120</kie:width>
-            <kie:width>448</kie:width>
+            <kie:width>518</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_2A63B4FA-F6F1-4A68-8280-50C8F42AFEA5">
-            <kie:width>448</kie:width>
+            <kie:width>518</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_AC320F29-8043-4A9E-9A5A-7E07C873084F">
             <kie:width>50</kie:width>
-            <kie:width>155</kie:width>
-            <kie:width>123</kie:width>
+            <kie:width>194</kie:width>
+            <kie:width>154</kie:width>
             <kie:width>100</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_B325C569-762E-408B-AAB5-D55AF7FF01C4">
-            <kie:width>638</kie:width>
+            <kie:width>708</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_72FC1D95-7AB8-4459-9815-D2EC186DD40A">
             <kie:width>50</kie:width>
-            <kie:width>877</kie:width>
+            <kie:width>947</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_7A96C527-9D9E-4199-987B-A6A0C8308296">
             <kie:width>50</kie:width>

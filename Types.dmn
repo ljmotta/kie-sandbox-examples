@@ -73,12 +73,6 @@
       <dmn:text>"High", "Medium", "Low", "Very Low", "Decline"</dmn:text>
     </dmn:allowedValues>
   </dmn:itemDefinition>
-  <dmn:itemDefinition id="_7B94FBD1-5170-4760-A178-87379B240B19" name="BureauAffordability" isCollection="false">
-    <dmn:typeRef>string</dmn:typeRef>
-    <dmn:allowedValues kie:constraintType="enumeration" id="_1A383C41-B285-4128-BBFD-B437CDA4CC80">
-      <dmn:text>"Yes", "No"</dmn:text>
-    </dmn:allowedValues>
-  </dmn:itemDefinition>
   <dmn:itemDefinition id="_8900D951-CF7A-4FC2-A8E6-46109A600089" name="Eligibility" isCollection="false">
     <dmn:typeRef>string</dmn:typeRef>
     <dmn:allowedValues kie:constraintType="enumeration" id="_8066D45B-E9E2-43ED-BDB3-71A145C628CC">
